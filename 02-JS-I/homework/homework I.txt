@@ -1,0 +1,23 @@
+
+Explicación a Abril (9 años)
+
+Variables
+Una variable es como una esponja viva que absorbe únicamente lo que nosotros le digamos. Esta esponja es obediente y la podemos llamar cuando nosotros la necesitemos. 
+Existen 3 clases diferentes de esponjas:
+	* Var = absorbe todo lo que le indiquemos y puede cambiar
+	* Let = similar a lo anterior, pero con particularidades (todavía no vistas)
+	* Const = absorbe una cosa y nunca cambia
+
+Strings
+Existe restricciones en lo que pueden absorber las esponjas. En el caso de los Strings solo pueden absorber letras y párrafos de textos y se lo indicamos usando comillas ""
+
+Funciones (argumentos, return)
+Las funciones son los trucos que le enseñamos a realizar a nuestra computadora. Como cuando le enseñamos a nuestra mascota, la esponja.
+Las esponjas (variables) cuando se las utiliza en un truco (función) se los conoce también, como argumentos.
+Cuando queremos ver como se hace un truco especifico debemos primero decir Return y luego el nombre del truco   
+
+Declaraciones if
+If es un truco que nuestra computadora ya conoce y utiliza para saber si algo es verdadero o falso
+
+Valores booleanos (true, false)
+Restricciones en lo que pueden absorber las esponjas. En el caso de los Booleanos solo puede absolver unos y ceros.

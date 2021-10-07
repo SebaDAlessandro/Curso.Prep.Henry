@@ -1,0 +1,8 @@
+Objetos
+Un objeto puede tomarse como un gran depósito en donde se almacenan cosas. A diferencia de los arreglos, estos depósitos tienen dentro elementos similares. Pensemos en autos: en nuestro depósito guardaríamos y agruparíamos los cristales (vidrios) por un lado, las puertas, capots y otras chapas grandes en otro lugar, los faros y foquitos en otro lugar, los distintos motores todos juntos, etc… digamos, todos componentes de vehículos.
+Propiedades
+Una propiedad es la forma en como relacionamos un nombre y un valor, en donde el primero es la forma en como invocamos a esa propiedad (su identificación debe ser única dentro del objeto) y el valor es lo que contiene. Cabe destacar que pueden existir n cantidades y que las mismas pueden no contener los mismos elementos.
+Métodos
+Los valores dentro de las propiedades de los objetos en muchas ocasiones pueden ser funciones. Estas mismas pasan a denominarse métodos con lo cual no son más que funciones que cumplen con determinadas operaciones pre establecidas.
+Bucle For… In
+Como bien dice la palabra es un bucle, pero podemos decir que son sentencias que se repiten constantemente y que su ciclo finaliza al recorrer todo el objeto.

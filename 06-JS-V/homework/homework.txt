@@ -1,0 +1,2 @@
+Un prototipo se entiende como un link direccionado hacia otro objeto al cual le estarán transfiriendo distintas propiedades
+Un constructor es una class esta última no deja de ser una plantilla de un objeto. Un constructor permite compartir las mismas propiedades para crear muchos objetos
